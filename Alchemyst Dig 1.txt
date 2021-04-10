@@ -1,0 +1,67 @@
+Alchemyst Dig! Volume 1
+by Alchemystics Design
+--CREATIVITY IS CHEMISTRY--
+All levels designed by Altermaven
+
+This pack contains 26 caves, 6 intermissions
+and 6 starts (if "select all caves" is off):
+CAVE 1
+CAVE 5
+CAVE 9
+CAVE 13
+CAVE 17
+CAVE 21
+
+There are also five levels that adjust most
+of the caves' "weirdness" and criteria. Go
+for the gold! And the high score! You can
+set these levels independent of cave start.
+
+Premise can be found in the "Info" tab.
+
+CAUTION: "Alchemyst Dig 1.bd" is a BDCFF file.
+You need a Boulder Dash Cave File Format interpreter
+in order to read this file and play this game.
+One available interpreter is GDash.
+
+Boulder Dash (c) Peter Liepa / Chris Gray.
+This is a fan caveset. 
+
+-----------------------------------------
+BONUS LORE:
+Types of crystals wanted by the Alchemyst:
+(I know some of these don't exist just.. let me have my fun!)
+
+CAVE 1: Onyx
+CAVE 2: Magicarium
+CAVE 3: Citrine
+CAVE 4: Uridium
+CAVE 5: Amethyst
+CAVE 6: Dazzlestone
+CAVE 7: Ruby
+CAVE 8: Sapphire
+CAVE 9: Jade
+CAVE 10: Rose Quartz
+CAVE 11: Lapis Lazuli
+CAVE 12: Shimmerstone
+CAVE 13: Aquamarine
+CAVE 14: Ebonite
+CAVE 15: Emerald
+CAVE 16: Diamond
+CAVE 17: Obsidian
+CAVE 18: Wonderstone
+CAVE 19: Psychophelenium
+CAVE 20: Scintillarium
+CAVE 21: Luminite
+CAVE 22: Prismatite
+CAVE 23: Hydrocite
+CAVE 24: Mesmerium
+CAVE 25: Impossibilium
+CAVE 26: Bravonia
+
+INT 1: Glittershard
+INT 2: Glowstone
+INT 3: Upsidedownium
+INT 4: Goshenite
+INT 5: Hallowstone
+INT 6: Moonstone
