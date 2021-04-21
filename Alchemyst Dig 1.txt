@@ -32,36 +32,36 @@ BONUS LORE:
 Types of crystals wanted by the Alchemyst:
 (I know some of these don't exist just.. let me have my fun!)
 
-CAVE 1: Onyx
-CAVE 2: Magicarium
-CAVE 3: Citrine
-CAVE 4: Uridium
-CAVE 5: Amethyst
-CAVE 6: Dazzlestone
-CAVE 7: Ruby
-CAVE 8: Sapphire
-CAVE 9: Jade
-CAVE 10: Rose Quartz
-CAVE 11: Lapis Lazuli
-CAVE 12: Shimmerstone
-CAVE 13: Aquamarine
-CAVE 14: Ebonite
-CAVE 15: Emerald
-CAVE 16: Diamond
-CAVE 17: Obsidian
-CAVE 18: Wonderstone
-CAVE 19: Psychophelenium
-CAVE 20: Scintillarium
-CAVE 21: Luminite
-CAVE 22: Prismatite
-CAVE 23: Hydrocite
-CAVE 24: Mesmerium
-CAVE 25: Impossibilium
-CAVE 26: Bravonia
+CAVE 1 "Swirl": Onyx
+CAVE 2 "Transmutation": Magicarium
+CAVE 3 "Rockslide": Citrine
+CAVE 4 "Plankton": Uridium
+CAVE 5 "Evade": Amethyst
+CAVE 6 "Magician": Dazzlestone
+CAVE 7 "Sifter": Ruby
+CAVE 8 "Glitter": Sapphire
+CAVE 9 "Extract": Jade
+CAVE 10 "Hazard": Rose Quartz
+CAVE 11 "There And Here": Lapis Lazuli
+CAVE 12 "Destroy": Shimmerstone
+CAVE 13 "Smite": Aquamarine
+CAVE 14 "Drei": Ebonite
+CAVE 15 "Shatter": Emerald
+CAVE 16 "Leakage": Diamond
+CAVE 17 "Heat": Obsidian
+CAVE 18 "Magic Boxes": Wonderstone
+CAVE 19 "Hallucination": Psychophelenium
+CAVE 20 "Battery": Scintillarium
+CAVE 21 "Peril": Luminite
+CAVE 22 "Siphon": Prismatite
+CAVE 23 "Water Guard": Hydrocite
+CAVE 24 "Crossway": Mesmerium
+CAVE 25 "Falling": Impossibilium
+CAVE 26 "???": Bravonia
 
-INT 1: Glittershard
-INT 2: Glowstone
-INT 3: Upsidedownium
-INT 4: Goshenite
-INT 5: Hallowstone
-INT 6: Moonstone
+INT 1 "Zwei": Glittershard
+INT 2 "Greed": Glowstone
+INT 3 "Voila": Upsidedownium
+INT 4 "Sort": Goshenite
+INT 5 "Denial": Hallowstone
+INT 6 "Regret": Moonstone
