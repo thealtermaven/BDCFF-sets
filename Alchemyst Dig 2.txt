@@ -1,0 +1,137 @@
+Alchemyst Dig! Volume 2
+by Alchemystics Design
+--CREATIVITY IS CHEMISTRY--
+All levels designed by Altermaven
+
+This pack contains 24 caves, 6 intermissions
+and 6 starts (if "select all caves" is off):
+I
+IV
+VII
+X
+XIII
+XVI
+
+There are also five levels that adjust most
+of the caves' "weirdness" and criteria. Go
+for the gold! And the high score! You can
+set these levels independent of cave start.
+
+Premise can be found in the "Info" tab.
+
+CAUTION: "Alchemyst Dig 2.bd" is a BDCFF file.
+You need a Boulder Dash Cave File Format interpreter
+in order to read this file and play this game.
+One available interpreter is GDash.
+
+Boulder Dash (c) Peter Liepa / Chris Gray.
+This is a fan caveset. 
+----------------------------------------------
+Gimmicks and titles:
+
+I: "Warp Wrap"
+Vertical wrapping.
+The brick walls just above the space (or at
+the very bottom if your interpreter doesn't
+do wrap-scrolling) are enchanted.
+
+II: "Seaweed"
+Free the butterflies and they'll run into the amoeba
+but don't go too fast or you'll extinguish it.
+
+III: "Firewall"
+Horizontal wrapping.
+
+A1: "Ancient 1"
+All "Ancient" levels use the monolith or 'Amoeba 2'
+element. These amoeba are programmed to become
+fireflies if they expand too far.
+However, they become diamonds when smothered.
+
+INT 1: "Trick"
+
+IV: "Flutter"
+
+V: "Cells"
+Horizontal, vertical wrapping.
+
+VI: "Flytrap"
+
+A2: "Ancient 2"
+Be mindful of the fireflies that exist
+
+INT 2: "Escape"
+Multiple Rockfords
+The intermission is lost if all rockfords expire,
+so you can 'sacrifice' one if it means escape.
+
+VII: "Chase"
+
+A3: "Ancient 3"
+Be careful not to make an impossible situation.
+
+VIII: "Vats"
+Horizontal, vertical wrapping.
+
+IX: "Pleothera"
+Be careful, time limit is strict
+
+INT 3: "Guard"
+Displace the butterflies for a clear shot up.
+
+X: "Spool"
+Horizontal wrapping.
+
+A4: "Ancient 4"
+Modified amoeba threshold.
+Be quick with the release and diamond grabs.
+The monolith can convert to fireflies early!
+
+XI: "Flutterprinter"
+Modified magic wall.
+Drop boulders into the walls, they turn into diamonds
+and then into butterflies.
+
+XII: "Racetrack"
+
+INT 4: "Revenge"
+Modified amoeba threshold.
+Don't let the monoliths swell! Trap it with the diamonds
+released from the butterflies!
+
+XIII: "Gauntlet"
+Careful when grabbing the diamonds, you don't want to
+be cut off from your quota!
+
+XIV: "Overgrowth"
+Time the firefly release so they are not only out of the
+way when the amoeba swells into boulders, but also that
+the amoeba is not extinguished in the process.
+
+A5: "Ancient 5"
+Players of the NES Boulder Dash will be familiar with
+this kind of smother level. Higher levels have firefly
+hazards that need to be cleared as well.
+
+XV: "Dash"
+Again, be mindful of the time.
+
+INT 5: "Nightmare"
+Read the story for a haiku.
+
+XVI: "Ziggy"
+Vertical wrapping.
+
+XVII: "Breakage"
+Higher levels turn some fireflies into butterflies, and
+the quota is increased to reflect.
+
+A6: "Ancient Final"
+Modified amoeba threshold.
+Be aware that there are two monoliths to smother!
+
+XVIII: "Daylight"
+Don't get buried.
+
+INT 6: "Waking"
+The boulders can't be shoved. Time your drops.
