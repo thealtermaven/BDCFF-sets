@@ -2,24 +2,14 @@
 Version=0.5
 
 [game]
-Name=Alchemyst Dig 1
+Name=Alchemyst Dig! Vol.01
+Description=The Lab Assistant's Dilemma
 Author=Alchemystics Design
 Date=2021-03-23
 Story=ALCHEMYSTICS DESIGN presents: \"Alchemyst Dig!\" Volume 1:\n\"The Lab Assistant's Dilemma\"\n\nFetch crystals as a magical alchemy assistant for great rewards and great risk. It's better than risking your life cleaning his lab!\n\nAll levels designed by Altermaven.\n--CREATIVITY IS CHEMISTRY--
 Remark=Started 23 Mar 2021\nFinished 10 Apr 2021\n\nhttps://twitter.com/thealtermaven\nhttps://github.com\n/thealtermaven/BDCFF-sets
+TitleScreen=iVBORw0KGgoAAAANSUhEUgAAAUAAAACwCAYAAAB+dbcHAAAABHNCSVQICAgIfAhkiAAACapJREFUeNrt3eux3LYBBlDezDaQFpJW3IJdglqQSpBauCU4LbgVqwSrhJtfm0l2QuH9PudPxtHFEgTJj8ASxL5d1/VxARzokVrg4yMuL9/e3rQux4u9Xlw3kwfg64F8PVChA33377EHPDd4Q/WufQK/bie036ntelf/0uOTW7/SQGh9/GcLolD9nv8bOn9Kr4Na7Vj7+MWef6V5Eh2AtS6A3AOaGgCvJ1DvE7j0hKhd/9oB1qr9Wh3/2fa/9/lXe/9bH7/Yz7vbz9Trp9kQeNYLq1VPInb7qXe21/+/9E4aKh/aj9o9gFqBdPc5tfd/1iF16/3PPX6l52/r4/OoVYFZg7F2/WsfgNTgzA322PKhO2jvEUCvdu41gujdg661/7WH5LPkx+PaTO0T+O4O1nsowZjjP0vgrRLQq3n0OiFzu/SzDGFG1aP0y+vS8rlDmNgeQ+vjP9tT2NzzJrcdWp8/qQ/5ZusYvH36xTxA4Ex/0wTA8UPgr79/zvqAL799U1555ZVfsrweIGAI/OP9+/Xj/Xv2BymvvPLKr1ZeDxA41uP/JWkJ5ZVXXvlVyusBAsd6u6wHCBxKDxAQgAACEEAAAghAAAEIIAABNhBcEPXTL20r8P5H2fZD5Uutvv+ty59+/B2/ubdfHIBPucvN3Hm+svL+x7+ytp9avtTq+1+7/OnH3/Fba/uGwAACEEAAAgIQQAACHCX7d4FTFx78+6d/bNVwpQs32n9OOn6h7b3mQ6/6Ff8w+j+//Pwx9HMe0NdPn7c8kUL7v7vR+z/7PLnTj9+z/e+mq4TyoXX9Hhcs6NljuLtwRs9TYw2+AwQEIIAABBCAAAIQYEueArOk2vPEUuepIQCv6zKParTR7T96vb7Yeaih+uXOU9v9+IW0Pr7TBmBoHhZtjW7/2vPwWhu9nuBqxy+2xzzL8c3lO0DgWAIQEIAAAhBAAALszXqAixrd/qutBzi6vqPXwyv9vF2vX+sBLm50+8++HmJont/o7bdeD690/3e/fg2BgWMJQEAAAghAAAEIIAABBCDATpZfEHX0emanr6d2+v7vfnwE4KRGr2d2+npq1pNbi989NgQGEIAAAhAQgAACEOAgyzwFnn09t91p/7X37/Tz987bdV0fmgEwBAYQgAACEEAAAghAAAEIIAABlhScCN16PbHR6/HtXr/Q9q3HhwCMUHs9sdrrwalf2vZjy//59df/+e+7H+qO/btVve7fndj9fn7ebu20bQDCyAC5K986QFJvAKFgi20HBCAbBl9ugDz/e7YACdVH4AlABJwerUAUgAi+XfdbsAlABN/29ffQQgBe1zXf+mKh+jx/xWxU/Xdbjy02CF57SKGeUuqQsfXDkdXrz88F1wN8ziO7m0ZReqBaz1Nbvf6lWu8/GAJXkDtPTf37DhlPGyqe+l2nAISIIV0oEEoDZPUATq1/aXsjADkokF+DYraASH0zxBsiApCNrfpGyKivElI/R3AKQBbuwa0ytM0NrFb7rweZx3JYTB+Y/30x//n1V5OO0QPkzJ5j7ny8UUP41HobAgvAo5SuF9h7nmGrNydq/92o/a39OQJNAB4hdb3AUfMMd/2ujjHnz+jzRABS5cStvSxU6SoqtRduzd1+73mQsfMIY5+mzxJYtY6/AKTrHXt0+dKe6egAqD2P8O7fez9Fzr3x1K6XAKTLnTj34UWthx+58wdrP3zp1QNt9dVE79V0Wj/8EoA0GVrmBkNoRejS8q1erYvtQbXqgfaaGjRqCFyr/V+ZBwgcSw9wEqnrGdb+/NmGzL3Kh4bGpdvPnQfYah5hbs8rt/6jzx8BOLnnPL676Sz/Wc/v0+cmn1/rhKo15Nut/Oh61JpfOevQVw+QqXtwYAjMNmr/Lm7pU9DUp665Q7/Yf48dgpeWdwMSgGwUoKWBVCvASwM59nNiy1tPUACy8VC694VaWo9Qzy12OlBqeSvgCEA26PmNvpBrB27rhxuzzQMUgLBw8NYaIs7ydJlNAnD1383d7Xd/U4eQdxd263l4sUPaWdYTrBXg1FH8u8DfCpdjqvW7vyG59e9Vv9z6hy7U2X+3GJbsAT7fTMidoFt7PbvU9fRC9R9dv9p2/d1iKOFdYEAAAghAAAEIIAABthT9FHj2eW7qt3b7wAjBeYAAhsAAAhBAAAIIQAABCCAAAQQgwLQetdarA9ADBFjE219/ff7pmyBffvt2XVf+gp7KK6+88rOW1wMEDIFDfrx/L3qhXnnllVd+tvJ6gMCxHqmpWrqskvLKK6/8LOX1AIFjWQ8QOJYeICAAAQQggAAEEIAAAhBAAAIIQIB1PUo/4OMjbR7129vb1A0Suz+z7wdnKT1vR5e/+7zW11nxmyCvOx7bQM+/Ky3f6gR6/fzUf4+tZ+l+pd6AYts/dn9Cf5fbbrEXUO3zr3f7tT5vW19/ta/f1td59R7gbnfO3AYvvaCq3dECJ1ZsIN8FTernhD4/tUfQumcwS/vNMqIKnc+l2x99vTxGN9hrcIxukNm2X6tHGPs5d3+XWj61ZzS63Vu332r7UXo8YrdfOiKYLgBDd9C7O2Buj6J3/Udtf5YeQe365A6NWt1QVv9ut/YNNHVk03sIawh8uLse9OgTb/T2Yy/EWdtv9Fc5o7bf/Ty9Kj8ESW3g0U+RR3+JXrsdUp/GteoxhP6+9cOQ2l8hlLZfq4Doff7VGrLWvn6GBSDAqrYbAo8awpg/yI5W/Urg2ADsfeBSh0Cv9Wo1D6/VECR3Hl7rIXWtIWir7feqf+8bugCczOoPBUrnkaXOY1tlHt5sx2n3jsMp7fGYteFLT9BVn+6VzsOr9UZK7wuo15sTrbefO+1m9DzYXm8kzXb9PWa/8N3J2rZj7Xl4s71Jkzsdpvd5PHoebGmHYdXra9uHILMdmFb12mUem6HcXDfQU86n7abBrPYUuPVDhNx69Crfeh5bq57VqP0fdV4LQIDNTDcE7n3HGT0TfXQPFE7uQU7XAxz93U3tp5itg6jXem6tbiCl6wmOPn69Fx+ovR7irtfxsj3A1b6EXeVA96pX6Xp6oUDKnQe5yvHrvZ7gqddD9R5gqyHYKneuUUPQWXtwqcEY27NKXUyh9fErXTC01vm9yqIis10/1XqAp8/jiz3Rp/9OZNA8wNLPa726SOmbOLOcf7OO3Ea127QPQVYJvlWsNg/RcV/Tal9hPWZvyN7BEPvvs8zjSn2VqvU7vL3rMfr45b7KNmo9wN7fBc++qIJ5gMCx/DA6IAABBCCAAAQQgAACEEAAAghAAAEIIAABBCCAAAQQgAACEEAAAgz0bxQdZujUc+lGAAAAAElFTkSuQmCC
 Levels=5
-
-[highscore]
-12375 alchemystics
-4734 alchemystics
-4678 alchemystics
-3670 alchemystics
-3670 alchemystics
-1352 alchemystics
-90 alchemystics
-21 alchemystics
-21 alchemystics
-[/highscore]
 
 [cave]
 Name=CAVE 1
@@ -58,11 +48,6 @@ Line=31 5 31 13 WALL
 Line=30 13 20 13 WALL
 Line=17 8 27 8 WALL
 [/objects]
-
-[highscore]
-639 alchemystics
-307 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -136,10 +121,6 @@ Point=29 13 FIREFLYl
 Point=31 13 FIREFLYl
 [/Level]
 [/objects]
-
-[highscore]
-361 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -173,10 +154,6 @@ Line=1 20 38 20 DIRT
 Line=1 20 1 20 INBOX
 Line=39 20 39 20 OUTBOX
 [/objects]
-
-[highscore]
-674 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -214,10 +191,6 @@ Rectangle=19 19 20 20 AMOEBA
 Line=38 1 27 12 WALL
 Line=1 1 12 12 WALL
 [/objects]
-
-[highscore]
-578 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -250,10 +223,6 @@ Rectangle=18 1 18 1 OUTBOX
 Rectangle=3 10 3 10 BUTTERFLYu
 Rectangle=1 8 1 8 BUTTERFLYd
 [/objects]
-
-[highscore]
-468 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -285,10 +254,6 @@ BorderProperties.objectwraparound=true
 Point=26 5 INBOX
 Point=12 13 OUTBOX
 [/objects]
-
-[highscore]
-517 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -322,10 +287,6 @@ Point=2 2 OUTBOX
 Line=25 14 36 14 MAGICWALL
 Line=1 20 1 20 AMOEBA
 [/objects]
-
-[highscore]
-1375 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -366,10 +327,6 @@ Point=1 20 INBOX
 Point=38 20 OUTBOX
 Line=4 13 35 13 SLIME
 [/objects]
-
-[highscore]
-402 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -416,10 +373,6 @@ RandomFillC64=1 1 38 17 1 2 3 4 5 DIRT SPACE 80 BOULDER 32 DIRT 8
 Point=1 1 INBOX
 Point=39 1 OUTBOX
 [/objects]
-
-[highscore]
-392 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -537,10 +490,6 @@ Line=6 10 10 10 DIRT
 Line=10 9 10 2 DIRT
 [/Level]
 [/objects]
-
-[highscore]
-1073 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -574,10 +523,6 @@ RandomFillC64=1 1 38 20 0 1 2 3 4 DIRT WALL 80 WALL 63 DIAMOND 45 FIREFLYu 6
 Point=19 6 INBOX
 Point=39 8 OUTBOX
 [/objects]
-
-[highscore]
-647 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -611,10 +556,6 @@ Line=30 8 8 8 WALL
 Line=1 18 1 18 INBOX
 Line=1 21 1 21 OUTBOX
 [/objects]
-
-[highscore]
-329 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -712,10 +653,6 @@ Point=13 10 FIREFLYl
 Point=15 14 FIREFLYl
 [/Level]
 [/objects]
-
-[highscore]
-548 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -751,10 +688,6 @@ Point=1 4 SPACE
 Point=18 10 AMOEBA
 Line=19 1 19 10 OUTBOX
 [/objects]
-
-[highscore]
-665 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -815,10 +748,6 @@ Line=0 1 0 1 OUTBOX
 Line=39 1 39 1 OUTBOX
 Line=2 17 38 17 HIDDENOUTBOX
 [/objects]
-
-[highscore]
-380 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -855,10 +784,6 @@ Line=4 7 35 7 MAGICWALL
 Point=1 20 INBOX
 Point=39 20 OUTBOX
 [/objects]
-
-[highscore]
-249 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -948,10 +873,6 @@ FillRect=18 13 21 20 DIRT
 Point=19 20 INBOX
 Point=19 21 OUTBOX
 [/objects]
-
-[highscore]
-516 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -1068,10 +989,6 @@ Point=13 15 BUTTERFLYl
 Point=38 3 INBOX
 Point=1 20 OUTBOX
 [/objects]
-
-[highscore]
-296 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -1136,10 +1053,6 @@ Point=16 10 BOULDER
 Point=21 10 BOULDER
 Point=26 10 BOULDER
 [/objects]
-
-[highscore]
-397 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -1174,10 +1087,6 @@ Line=28 1 28 14 WALL
 Point=2 20 OUTBOX
 Point=1 20 INBOX
 [/objects]
-
-[highscore]
-474 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -1224,10 +1133,6 @@ Line=37 17 32 17 MAGICWALL
 FillRect=32 15 37 13 BOULDER
 FillRect=32 18 37 20 SPACE
 [/objects]
-
-[highscore]
-1105 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -1296,10 +1201,6 @@ Point=10 4 WALL
 Point=2 2 WALL
 Point=15 4 WALL
 [/objects]
-
-[highscore]
-912 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -1327,11 +1228,6 @@ RandomFillC64=1 1 38 20 13 37 58 94 124 WALL DIRT 235 BOULDER 47 SPACE 27 BUTTER
 Point=13 10 INBOX
 Point=39 14 OUTBOX
 [/objects]
-
-[highscore]
-845 alchemystics
-845 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -1365,12 +1261,6 @@ Point=17 14 INBOX
 Rectangle=38 20 36 19 DIRT
 Point=39 20 OUTBOX
 [/objects]
-
-[highscore]
-1001 alchemystics
-560 alchemystics
-560 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -1476,10 +1366,6 @@ Point=34 8 FIREFLYl
 Point=30 18 FIREFLYl
 Point=34 18 FIREFLYl
 [/objects]
-
-[highscore]
-678 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
@@ -1535,10 +1421,6 @@ Point=27 20 DIRT
 Point=18 20 INBOX
 Point=21 20 OUTBOX
 [/objects]
-
-[highscore]
-721 alchemystics
-[/highscore]
 [/cave]
 
 [cave]
