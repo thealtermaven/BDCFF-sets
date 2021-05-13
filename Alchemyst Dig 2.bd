@@ -64,6 +64,7 @@ Point=38 21 MAGICWALL
 
 [highscore]
 853 alchemystics
+820 alchemystics
 750 alchemystics
 688 alchemystics
 601 alchemystics
@@ -133,6 +134,7 @@ Point=37 18 SPACE
 [/objects]
 
 [highscore]
+1388 alchemystics
 1386 alchemystics
 1300 alchemystics
 830 alchemystics
@@ -200,6 +202,9 @@ Line=19 10 20 11 FIREFLYr
 Line=22 10 23 11 FIREFLYr
 Line=25 10 26 11 FIREFLYr
 Line=28 10 29 11 FIREFLYr
+[Level=4]
+Point=29 8 DIRT
+[/Level]
 [/objects]
 
 [highscore]
@@ -1268,6 +1273,7 @@ Point=21 0 OUTBOX
 [/objects]
 
 [highscore]
+828 alchemystics
 793 alchemystics
 735 alchemystics
 [/highscore]
@@ -1333,6 +1339,8 @@ FloodFill=26 1 WALL SPACE
 
 [highscore]
 1556 alchemystics
+1132 alchemystics
+1063 alchemystics
 1014 alchemystics
 [/highscore]
 [/cave]
@@ -1383,6 +1391,7 @@ FillRect=1 1 3 11 DIRT
 
 [highscore]
 983 alchemystics
+942 alchemystics
 755 alchemystics
 [/highscore]
 [/cave]
@@ -1430,6 +1439,7 @@ Point=19 1 OUTBOX
 [/objects]
 
 [highscore]
+664 alchemystics
 558 alchemystics
 527 alchemystics
 [/highscore]
@@ -1619,6 +1629,7 @@ Rectangle=19 1 20 2 AMOEBA
 [/objects]
 
 [highscore]
+1470 alchemystics
 870 alchemystics
 742 alchemystics
 [/highscore]
@@ -1744,6 +1755,7 @@ Point=14 6 FIREFLYl
 [/objects]
 
 [highscore]
+1686 alchemystics
 1612 alchemystics
 1580 alchemystics
 [/highscore]
@@ -1778,6 +1790,7 @@ Point=35 3 OUTBOX
 [/objects]
 
 [highscore]
+1216 alchemystics
 1207 alchemystics
 1185 alchemystics
 [/highscore]
@@ -1897,6 +1910,7 @@ Line=6 13 6 13 OUTBOX
 
 [highscore]
 962 alchemystics
+936 alchemystics
 [/highscore]
 [/cave]
 
@@ -1977,6 +1991,7 @@ Point=35 11 OUTBOX
 [/objects]
 
 [highscore]
+1308 alchemystics
 888 alchemystics
 886 alchemystics
 [/highscore]
@@ -2133,6 +2148,10 @@ Point=3 8 STEELWALL
 Point=5 7 BUTTERFLYr
 Point=1 10 BUTTERFLYr
 [/objects]
+
+[highscore]
+1281 alchemystics
+[/highscore]
 [/cave]
 [/game]
 [/BDCFF]
