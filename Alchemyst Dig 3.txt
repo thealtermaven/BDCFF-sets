@@ -1,0 +1,125 @@
+Alchemyst Dig! Volume 3
+by Alchemystics Design
+--CREATIVITY IS CHEMISTRY--
+All levels designed by Altermaven
+
+This pack contains 20 caves, 4 intermissions
+and 4 starts (if "select all caves" is off):
+CAVE I
+CAVE VI
+CAVE XI
+CAVE XVI
+
+There are also five levels that adjust most
+of the caves' "weirdness" and criteria. Go
+for the gold! And the high score! You can
+set these levels independent of cave start.
+
+Premise can be found in the "Info" tab.
+
+CAUTION: "Alchemyst Dig 3.bd" is a BDCFF file.
+You need a Boulder Dash Cave File Format interpreter
+in order to read this file and play this game.
+In order to prevent weirdness, use GDash.
+
+Boulder Dash (c) Peter Liepa / Chris Gray.
+This is a fan caveset. 
+
+-----------------------------------------
+Each set of 5 caves consist of a season.
+
+WINTER (I-V):
+CAVE I "Breaker"
+The cave is split into two. Use the firefly to get across.
+
+CAVE II "Unbox"
+You will need to break into the funnel area. Don't linger;
+there is not much time afterward. Take your requirement
+and go.
+
+CAVE III "Flutter"
+Be mindful of how you drop the boulders.
+
+CAVE IV "Capture"
+Work with obstructions to snare the amoeba and turn it
+into the crystal essence of WINTER.
+
+CAVE V "Overflow"
+The monoliths are back. You will want to have the
+fireflies be busy with the ancient mess while you
+grab the required gems. But be careful on your way
+back up!
+
+INT 1 "Leaving Winter"
+The cold snap is leaving. Smash the winter butterflies,
+grab the gems, and go warm back up.
+
+--------------
+SPRING (VI-X)
+CAVE VI "Unblock"
+Be mindful of what part of the wall you strip, as you will
+need to funnel the boulders into the underlying magic wall
+quickly.
+
+CAVE VII "Leaves"
+Take what is required and leave. This reminds you of your
+time in the second vein of the Rockford caves, albeit dimly..
+
+CAVE VIII "Insects"
+The essence of spring lies in the butterflies, but fierce
+fireflies are making it a problem!
+
+CAVE IX "Fairies"
+One must be mindful of the ever expanding ring of amoeba.
+
+CAVE X "Grass"
+What a way to end the season. Time to tend the garden.
+
+INT 2 "Leaving Spring"
+Don't obstruct your way out.
+
+--------------
+SUMMER (XI-XV)
+CAVE XI "Sweat"
+What used to be a cemetery is now ash, stone, fire essence
+and leftover rocks. The gemcrafter needs the essence...
+
+CAVE XII "Night Flame"
+Time to do some perilous luring..
+
+CAVE XIII "Midnight Magic"
+The faerie dust is playing tricks on you.
+
+CAVE XIV "Dig In"
+Careful not to cave yourself in. Or worse.
+
+CAVE XV "Ruby Heart"
+I love you, but I must kill you.
+
+INT 3 "Collapsing"
+Be mindful not to trap your way out. Also, the cave is slipping..
+
+--------------
+AUTUMN (XVI-XX)
+CAVE XVI "Dig Out"
+You're inside Peril Peak. Sift through the boulders and find
+your way out, grabbing the autumn essence with you.
+
+CAVE XVII "Citrine Chaos"
+No matter how many butterfly traps you open, your exit is in them.
+
+CAVE XVIII "Topaz Tricks"
+A good old-fashioned butterfly lure works, but you might want
+to transmute the monoliths before they become a bother, too.
+
+CAVE XIX "Emerald Enchantment"
+Be mindful of the wrapping, as you will have to use it to solve
+this one...
+
+CAVE XX "Azure Agony"
+Something reeks of both heaven and hell, but regardless, you need
+the azure-attuned prismacite!
+
+INT 4 "Amethyst Allure"
+Everything is becoming undone, but you find your way out. Also,
+is it you, or is it getting cold again?
