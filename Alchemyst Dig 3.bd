@@ -597,6 +597,7 @@ Point=21 10 BUTTERFLYl
 Point=27 4 BUTTERFLYl
 Point=33 10 BUTTERFLYl
 Point=27 16 BUTTERFLYl
+Rectangle=15 9 18 12 DIRT
 [/objects]
 [/cave]
 
