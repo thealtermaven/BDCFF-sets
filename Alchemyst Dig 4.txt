@@ -1,0 +1,76 @@
+Alchemyst Dig! Volume 4
+by Alchemystics Design
+--CREATIVITY IS CHEMISTRY--
+All levels designed by Altermaven
+
+This pack contains 20 caves, 5 intermissions
+and 4 starts (if "select all caves" is off):
+CAVE A
+CAVE E
+CAVE I
+CAVE M
+
+There are also five levels that adjust most
+of the caves' "weirdness" and criteria. Go
+for the gold! And the high score! You can
+set these levels independent of cave start.
+
+Premise can be found in the "Info" tab.
+
+CAUTION: "Alchemyst Dig 4.bd" is a BDCFF file.
+You need a Boulder Dash Cave File Format interpreter
+in order to read this file and play this game.
+GDash is recommended to use this caveset.
+
+Boulder Dash (c) Peter Liepa / Chris Gray.
+This is a fan caveset. 
+
+In memory of Whit "violetbutterfly" Garnley,
+who was recently taken from us. A blooming
+flower culled by unclean hands.
+
+1989-2022
+
+"Fly free, butterfly; where you're going, they
+won't be behind. Soar high, 'til next we meet"
+
+Trans rights are human rights.
+
+-----------------------------------------
+The caveset is split up into five sections.
+Only the start of the first four can be
+chosen. "Select All Caves" should be off
+in order to get the original experience.
+
+If "Story" is enabled, you earn a haiku
+when entering each intermission.
+
+CAVE A: "Cauldron"
+CAVE B: "Heist"
+CAVE C: "Bash"
+CAVE D: "Anomalous"
+INT 1: "Box"
+
+CAVE E: "Deviance" 
+CAVE F: "Garden"
+CAVE G: "Disaster"
+CAVE H: "Dunkelheit"
+INT 2: "Flutterby"
+
+CAVE I: "Blood Ruby"
+CAVE J: "Dive"
+CAVE K: "Activity"
+CAVE L: "Armageddon"
+INT 3: "Panic"
+
+CAVE M: "Flow"
+CAVE N: "Relic"
+CAVE O: "Foolery"
+CAVE P: "Fragility"
+INT 4: "Lockbox"
+
+OUTRO I: "Loopback"
+OUTRO II: "Annoyance"
+OUTRO III: "One"
+OUTRO IV: "Sticky Mess"
+INT 5: "Finale"
