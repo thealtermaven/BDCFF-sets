@@ -44,6 +44,10 @@ Line=18 5 5 5 STEELWALL
 Point=35 1 INBOX
 Point=38 1 OUTBOX
 [/objects]
+
+[highscore]
+540 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -99,6 +103,10 @@ Point=36 20 FIREFLYl
 Point=36 18 INBOX
 Point=39 18 OUTBOX
 [/objects]
+
+[highscore]
+537 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -130,6 +138,10 @@ BorderProperties.objectwraparound=true
 Point=38 20 INBOX
 Point=1 0 OUTBOX
 [/objects]
+
+[highscore]
+707 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -174,6 +186,10 @@ Line=36 1 38 3 AMOEBA
 Point=20 1 INBOX
 Point=39 1 OUTBOX
 [/objects]
+
+[highscore]
+953 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -240,7 +256,7 @@ CaveTime=100 100 100 90 80
 CaveScheduling=bd2
 PALTiming=true
 FrameTime=180 160 140 120 120
-CaveDelay=12 6 3 1 0
+CaveDelay=9 8 7 6 6
 HatchingTime=8 8 7 7 6
 DiamondValue=12 15
 RandSeed=16 23 30 37 44
