@@ -9,6 +9,9 @@ There will be no official releases in the CLCK standalone format (d64). If you m
 ---
 To grab: Code > "Download ZIP", then drop them in a directory you have access to from your BDCFF interpreter. If you are planning on using GDash's /caves folder, make the folder /alchemystics and drop the files there. For the images to work they must be in the same directory. (You can also grab the most current bundle from the Releases section which has all three!)
 
+24 Aug 2022 15:44 EDT: Alchemyst Dig 05: Fixed an issue in Cave E that had incorrect timings. They are now the proper timings.
+24 Aug 2022: Alchemyst Dig 05 has been released.
+
 06 Feb 2022: Alchemyst Dig 04 has been released.
 
 01 Sept 2021: Alchemyst Dig 03 has been released.
