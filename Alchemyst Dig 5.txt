@@ -1,0 +1,69 @@
+Alchemyst Dig! Volume 4
+by Alchemystics Design
+--CREATIVITY IS CHEMISTRY--
+All levels designed by Altermaven
+
+This pack contains 23 caves, 5 intermissions
+and 5 starts (if "select all caves" is off):
+Cave A
+Cave E
+Cave I
+Cave M
+Vault In
+
+There are also five levels that adjust most
+of the caves' "weirdness" and criteria. Go
+for the gold! And the high score! You can
+set these levels independent of cave start.
+
+Premise can be found in the "Info" tab.
+
+CAUTION: "Alchemyst Dig 4.bd" is a BDCFF file.
+You need a Boulder Dash Cave File Format interpreter
+in order to read this file and play this game.
+GDash is recommended to use this caveset.
+
+Boulder Dash (c) Peter Liepa / Chris Gray.
+This is a fan caveset.
+
+-----------------------------------------
+The caveset is split up into five sections.
+Only the start of the first four can be
+chosen. "Select All Caves" should be off
+in order to get the original experience.
+
+If "Story" is enabled, you will receive
+a message whenever you enter each intermission.
+
+"South" block:
+Cave A: "The Start"
+Cave B: "Crates"
+Cave C: "Trash"
+Cave D: "Ooze"
+
+"West" block:
+Cave E: "Static"
+Cave F: "Structure"
+Cave G: "The Lure"
+Cave H: "Sunflowers"
+
+"East" block:
+Cave I: "Water"
+Cave J: "Earth"
+Cave K: "Leakage"
+Cave L: "Trip"
+
+"North" block:
+Cave M: "The Drop"
+Cave N: "The Draw"
+Cave O: "The Snare"
+Cave P: "The Switch"
+
+"Vault" block:
+Vault In: "Entrance"
+Vault A: "Locket"
+Vault B: "The Transmutator"
+Vault C: "Tension"
+Vault D: "The Vault"
+Vault E: "The Ward"
+Finish: "Daybreak"
