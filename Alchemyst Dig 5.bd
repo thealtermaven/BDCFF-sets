@@ -10,7 +10,9 @@ TitleScreen=iVBORw0KGgoAAAANSUhEUgAAAUAAAACwCAIAAADxFyBQAAAAA3NCSVQICAjb4U/gAAAI
 Levels=5
 
 [highscore]
+6018 alchemystics
 1195 alchemystics
+765 alchemystics
 [/highscore]
 
 [cave]
@@ -279,6 +281,7 @@ Point=21 10 OUTBOX
 [/objects]
 
 [highscore]
+717 alchemystics
 600 alchemystics
 [/highscore]
 [/cave]
@@ -327,6 +330,10 @@ Line=22 14 24 14 WALL
 Line=19 10 20 11 OUTBOX
 Line=1 1 1 1 INBOX
 [/objects]
+
+[highscore]
+435 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -366,6 +373,10 @@ Line=4 2 2 4 AMOEBA
 Point=6 2 INBOX
 Point=0 1 OUTBOX
 [/objects]
+
+[highscore]
+1091 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -407,6 +418,10 @@ FillRect=18 18 21 20 DIRT
 Point=18 20 INBOX
 Point=21 20 OUTBOX
 [/objects]
+
+[highscore]
+879 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -468,6 +483,10 @@ Point=13 0 OUTBOX
 Point=6 0 OUTBOX
 Point=6 11 OUTBOX
 [/objects]
+
+[highscore]
+628 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -535,6 +554,10 @@ Point=20 17 INBOX
 Rectangle=7 9 8 10 DIRT
 Rectangle=31 9 32 10 DIRT
 [/objects]
+
+[highscore]
+445 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -703,6 +726,10 @@ Line=4 15 35 15 DIRT
 Line=4 16 35 16 DIRT
 [/Level]
 [/objects]
+
+[highscore]
+462 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -721,7 +748,7 @@ CaveScheduling=bd1
 PALTiming=true
 FrameTime=180 160 140 120 120
 CaveDelay=12 6 3 1 0
-DiamondValue=0 0
+DiamondValue=10 15
 RandomFill=BOULDER 170 DIRT 140 BOULDER 60 DIRT 40
 ActiveGuyIsFirst=false
 Amoeba2Time=1 1 1 1 1
