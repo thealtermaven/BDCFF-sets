@@ -9,6 +9,7 @@ There will be no official releases in the CLCK standalone format (d64). If you m
 ---
 To grab: Code > "Download ZIP", then drop them in a directory you have access to from your BDCFF interpreter. If you are planning on using GDash's /caves folder, make the folder /alchemystics and drop the files there. For the images to work they must be in the same directory. (You can also grab the most current bundle from the Releases section which has all three!)
 
+25 Aug 2022: Alchemyst Dig 05: Fixed a few extra issues. Cave D had a missing dirt element that was added, making L2 solveable. Cave F central stripe was removed, and the level should be solveable more reliably. Cave L was missing diamond scorings -- you can now get score in "Trip".
 24 Aug 2022 15:44 EDT: Alchemyst Dig 05: Fixed an issue in Cave E that had incorrect timings. They are now the proper timings.
 24 Aug 2022: Alchemyst Dig 05 has been released.
 
