@@ -52,6 +52,7 @@ Point=38 1 OUTBOX
 [/objects]
 
 [highscore]
+644 alchemystics
 540 alchemystics
 [/highscore]
 [/cave]
@@ -111,6 +112,7 @@ Point=39 18 OUTBOX
 [/objects]
 
 [highscore]
+607 alchemystics
 537 alchemystics
 [/highscore]
 [/cave]
@@ -147,6 +149,7 @@ Point=1 0 OUTBOX
 
 [highscore]
 707 alchemystics
+688 alchemystics
 [/highscore]
 [/cave]
 
@@ -191,6 +194,7 @@ FillRect=38 1 37 2 AMOEBA
 Line=36 1 38 3 AMOEBA
 Point=20 1 INBOX
 Point=39 1 OUTBOX
+Point=1 19 DIRT
 [/objects]
 
 [highscore]
@@ -855,6 +859,10 @@ Point=19 11 DIRT
 Point=20 11 DIRT
 Point=30 11 DIRT
 [/objects]
+
+[highscore]
+748 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -936,6 +944,10 @@ Point=7 5 MAGICWALL
 Point=2 4 DIRT
 Point=2 5 VEXPANDINGWALL
 [/objects]
+
+[highscore]
+472 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -1035,6 +1047,10 @@ Point=23 20 HEXPANDINGWALL
 Point=23 1 HEXPANDINGWALL
 Point=24 10 INBOX
 [/objects]
+
+[highscore]
+325 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -1079,6 +1095,10 @@ Point=38 1 OUTBOX
 Rectangle=17 10 22 15 DIRT
 Rectangle=16 9 23 16 DIRT
 [/objects]
+
+[highscore]
+320 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -1204,6 +1224,10 @@ Point=22 17 HEXPANDINGWALL
 Point=28 18 HEXPANDINGWALL
 Point=35 19 HEXPANDINGWALL
 [/objects]
+
+[highscore]
+335 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -1247,6 +1271,10 @@ Line=1 6 1 6 DIRT
 Point=1 9 INBOX
 Point=38 12 OUTBOX
 [/objects]
+
+[highscore]
+474 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -1287,6 +1315,10 @@ Line=6 16 34 16 MAGICWALL
 Point=39 8 OUTBOX
 Point=38 8 INBOX
 [/objects]
+
+[highscore]
+765 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -1329,6 +1361,10 @@ Line=0 11 0 11 OUTBOX
 Line=39 11 39 11 OUTBOX
 Line=20 11 20 11 INBOX
 [/objects]
+
+[highscore]
+1075 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -1373,6 +1409,10 @@ Point=3 11 INBOX
 Point=22 0 OUTBOX
 Point=17 0 OUTBOX
 [/objects]
+
+[highscore]
+744 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -1410,6 +1450,10 @@ Line=2 4 38 4 STEELWALL
 Point=1 2 OUTBOX
 Point=1 20 INBOX
 [/objects]
+
+[highscore]
+893 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -1620,6 +1664,10 @@ Line=1 18 38 18 DIAMOND
 [/Level]
 Point=2 19 INBOX
 [/objects]
+
+[highscore]
+191 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -1660,6 +1708,10 @@ Point=4 5 VEXPANDINGWALL
 Point=17 4 VEXPANDINGWALL
 Point=11 9 VEXPANDINGWALL
 [/objects]
+
+[highscore]
+1958 alchemystics
+[/highscore]
 [/cave]
 [/game]
 [/BDCFF]
