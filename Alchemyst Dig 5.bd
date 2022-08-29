@@ -10,7 +10,12 @@ TitleScreen=iVBORw0KGgoAAAANSUhEUgAAAUAAAACwCAIAAADxFyBQAAAAA3NCSVQICAjb4U/gAAAI
 Levels=5
 
 [highscore]
+13515 alchemystics
+13347 alchemystics
+10274 alchemystics
+6934 alchemystics
 6018 alchemystics
+2356 alchemystics
 1195 alchemystics
 765 alchemystics
 [/highscore]
@@ -52,6 +57,8 @@ Point=38 1 OUTBOX
 [/objects]
 
 [highscore]
+706 alchemystics
+694 alchemystics
 644 alchemystics
 540 alchemystics
 [/highscore]
@@ -134,6 +141,7 @@ PALTiming=true
 FrameTime=180 160 140 120 120
 CaveDelay=4 4 4 4 4
 DiamondValue=5 10
+RandSeed=0 1 3 4 5
 RandomFill=WALL 160 BOULDER 115 DIRT 80 DIAMOND 35
 ActiveGuyIsFirst=false
 AmoebaProperties.immediately=false
@@ -198,6 +206,7 @@ Point=1 19 DIRT
 [/objects]
 
 [highscore]
+1258 alchemystics
 953 alchemystics
 [/highscore]
 [/cave]
@@ -285,6 +294,9 @@ Point=21 10 OUTBOX
 [/objects]
 
 [highscore]
+834 alchemystics
+834 alchemystics
+749 alchemystics
 717 alchemystics
 600 alchemystics
 [/highscore]
@@ -333,7 +345,10 @@ Line=1 1 1 1 INBOX
 [/objects]
 
 [highscore]
+783 alchemystics
+609 alchemystics
 435 alchemystics
+365 alchemystics
 [/highscore]
 [/cave]
 
@@ -377,6 +392,7 @@ Point=0 1 OUTBOX
 
 [highscore]
 1091 alchemystics
+1011 alchemystics
 [/highscore]
 [/cave]
 
@@ -421,6 +437,8 @@ Point=21 20 OUTBOX
 [/objects]
 
 [highscore]
+978 alchemystics
+922 alchemystics
 879 alchemystics
 [/highscore]
 [/cave]
@@ -486,6 +504,7 @@ Point=6 11 OUTBOX
 [/objects]
 
 [highscore]
+747 alchemystics
 628 alchemystics
 [/highscore]
 [/cave]
@@ -557,6 +576,8 @@ Rectangle=31 9 32 10 DIRT
 [/objects]
 
 [highscore]
+746 alchemystics
+562 alchemystics
 445 alchemystics
 [/highscore]
 [/cave]
@@ -668,6 +689,11 @@ Line=20 17 38 17 BUTTERFLYr
 Point=0 4 INBOX
 Point=39 4 OUTBOX
 [/objects]
+
+[highscore]
+1028 alchemystics
+620 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -729,6 +755,8 @@ Line=4 16 35 16 DIRT
 [/objects]
 
 [highscore]
+505 alchemystics
+470 alchemystics
 462 alchemystics
 [/highscore]
 [/cave]
@@ -766,6 +794,11 @@ Rectangle=1 1 38 2 DIRT
 Point=2 19 INBOX
 Point=0 1 OUTBOX
 [/objects]
+
+[highscore]
+1469 alchemystics
+1070 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -862,6 +895,9 @@ Point=30 11 DIRT
 
 [highscore]
 748 alchemystics
+718 alchemystics
+652 alchemystics
+552 alchemystics
 [/highscore]
 [/cave]
 
@@ -946,6 +982,9 @@ Point=2 5 VEXPANDINGWALL
 [/objects]
 
 [highscore]
+985 alchemystics
+774 alchemystics
+717 alchemystics
 472 alchemystics
 [/highscore]
 [/cave]
@@ -1049,6 +1088,9 @@ Point=24 10 INBOX
 [/objects]
 
 [highscore]
+486 alchemystics
+411 alchemystics
+408 alchemystics
 325 alchemystics
 [/highscore]
 [/cave]
@@ -1097,6 +1139,8 @@ Rectangle=16 9 23 16 DIRT
 [/objects]
 
 [highscore]
+420 alchemystics
+340 alchemystics
 320 alchemystics
 [/highscore]
 [/cave]
@@ -1151,6 +1195,10 @@ Line=7 1 7 1 BUTTERFLYl
 Line=1 0 18 0 OUTBOX
 Point=10 4 INBOX
 [/objects]
+
+[highscore]
+639 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -1226,6 +1274,8 @@ Point=35 19 HEXPANDINGWALL
 [/objects]
 
 [highscore]
+370 alchemystics
+345 alchemystics
 335 alchemystics
 [/highscore]
 [/cave]
@@ -1273,6 +1323,8 @@ Point=38 12 OUTBOX
 [/objects]
 
 [highscore]
+593 alchemystics
+496 alchemystics
 474 alchemystics
 [/highscore]
 [/cave]
@@ -1317,6 +1369,8 @@ Point=38 8 INBOX
 [/objects]
 
 [highscore]
+1414 alchemystics
+1324 alchemystics
 765 alchemystics
 [/highscore]
 [/cave]
@@ -1363,7 +1417,9 @@ Line=20 11 20 11 INBOX
 [/objects]
 
 [highscore]
+1211 alchemystics
 1075 alchemystics
+1060 alchemystics
 [/highscore]
 [/cave]
 
@@ -1411,6 +1467,8 @@ Point=17 0 OUTBOX
 [/objects]
 
 [highscore]
+853 alchemystics
+778 alchemystics
 744 alchemystics
 [/highscore]
 [/cave]
@@ -1452,6 +1510,7 @@ Point=1 20 INBOX
 [/objects]
 
 [highscore]
+926 alchemystics
 893 alchemystics
 [/highscore]
 [/cave]
@@ -1667,6 +1726,7 @@ Point=2 19 INBOX
 
 [highscore]
 191 alchemystics
+167 alchemystics
 [/highscore]
 [/cave]
 
@@ -1710,6 +1770,7 @@ Point=11 9 VEXPANDINGWALL
 [/objects]
 
 [highscore]
+2642 alchemystics
 1958 alchemystics
 [/highscore]
 [/cave]
