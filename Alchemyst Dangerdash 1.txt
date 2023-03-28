@@ -1,0 +1,66 @@
+Alchemyst Dangerdash Vol.1
+by Alchemystics Design
+--CREATIVITY IS CHEMISTRY--
+All levels designed by
+Windbliss aka Altermaven
+
+This pack contains 20 caves, 5 intermissions
+and 4 starts (if "select all caves" is off):
+Cave A
+Cave E
+Cave I
+Cave M
+
+There are also five levels that adjust most
+of the caves' "weirdness" and criteria. Go
+for the gold! And the high score! You can
+set these levels independent of cave start.
+
+Premise can be found in the "Info" tab.
+
+CAUTION: "Alchemyst Dig 6.bd" is a BDCFF file.
+You need a Boulder Dash Cave File Format interpreter
+in order to read this file and play this game.
+GDash is recommended to use this caveset.
+
+Boulder Dash (c) Peter Liepa / Chris Gray.
+This is a fan caveset.
+
+-----------------------------------------
+The caveset is split up into five sections.
+Only the start of the first four can be
+chosen. "Select All Caves" should be off
+in order to get the original experience.
+
+If "Story" is enabled, you will receive
+a message when you reach the final intermission.
+
+CAVE A: Morning
+CAVE B: Storage
+CAVE C: Summer Dive
+CAVE D: Sorting
+INT 1: Firewall
+
+CAVE E: Dredge
+CAVE F: For Sakes!
+CAVE G: Mysticism
+CAVE H: Anger
+INT 2: Stripes
+
+CAVE I: Nightshift
+CAVE J: Butterflies Reprise
+CAVE K: Rebox
+CAVE L: Lovers
+INT 3: Necklace
+
+CAVE M: Shuffled Contents
+CAVE N: Firepit
+CAVE O: Loudboxer
+CAVE P: Plentiful
+INT 4: Overbearing
+
+OUTRO 1: Alfa
+OUTRO 2: Dexter
+OUTRO 3: Lentic Catachresis
+OUTRO 4: Oscar
+INT 5: Repeat Until
