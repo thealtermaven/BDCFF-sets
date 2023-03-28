@@ -5,9 +5,11 @@ You need a Boulder Dash Cave File Format interpreter to load and play these cave
 Creativity is chemistry!
 
 You may tweak and change these cavesets provided you give me credit for the original material.  
-There will be no official releases in the CLCK standalone format (d64). If you manage to, flag me down and send me the d64, and I'll post it with your credit.  
+There will be no official releases in the CLCK standalone format (d64). However, I am looking for individuals who will pack caves in CLCK standalone. If you manage to, flag me down and send me the d64, and I'll post it with your credit.  
 ---
 To grab: Code > "Download ZIP", then drop them in a directory you have access to from your BDCFF interpreter. If you are planning on using GDash's /caves folder, make the folder /alchemystics and drop the files there. For the images to work they must be in the same directory. (You can also grab the most current bundle from the Releases section which has all three!)
+
+28 Mar 2023: Alchemyst DangerDash 01 has been released.
 
 10 Sep 2022: Alchemyst Dig 05: Adjusted time limit for INT 3 so there is now a slight leeway for error instead of having to be almost perfect for the clear.
 
