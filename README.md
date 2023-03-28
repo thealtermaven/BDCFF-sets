@@ -9,6 +9,8 @@ There will be no official releases in the CLCK standalone format (d64). However,
 ---
 To grab: Code > "Download ZIP", then drop them in a directory you have access to from your BDCFF interpreter. If you are planning on using GDash's /caves folder, make the folder /alchemystics and drop the files there. For the images to work they must be in the same directory. (You can also grab the most current bundle from the Releases section which has all three!)
 
+29 Mar 2023: Alchemyst DangerDash 01: Changed the seed of H/2 so that the magic wall does not accidentally start itself due to the random fill. Cleaned up requisites in all levels of B -- only in B/5 you need all 60 diamonds. Adjusted seeds in various caves; increased timer in Outro 2 "Dexter" and adjusted requirements so perfection is not required, but you are still pressed for time. Adjusted seeds in few levels of K for more consistent smothers.
+
 28 Mar 2023: Alchemyst DangerDash 01 has been released.
 
 10 Sep 2022: Alchemyst Dig 05: Adjusted time limit for INT 3 so there is now a slight leeway for error instead of having to be almost perfect for the clear.
