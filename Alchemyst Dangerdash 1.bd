@@ -50,6 +50,11 @@ Line=24 11 24 15 STEELWALL
 Point=1 20 INBOX
 Point=38 1 OUTBOX
 [/objects]
+
+[highscore]
+542 alchemystics
+437 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -62,8 +67,8 @@ Intermission=false
 IntermissionProperties.rewardlife=false
 Size=40 22 0 0 39 21
 Colors=Black Black Blue Yellow White White White
-DiamondsRequired=60 60 60 60 60
-CaveTime=150 120 100 90 80
+DiamondsRequired=40 45 50 55 60
+CaveTime=150 130 110 90 80
 CaveScheduling=bd2
 PALTiming=true
 FrameTime=180 160 140 120 120
@@ -126,6 +131,11 @@ Line=1 20 38 20 DIRT
 Point=5 21 INBOX
 Point=34 21 OUTBOX
 [/objects]
+
+[highscore]
+616 alchemystics
+570 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -160,6 +170,11 @@ FillRect=4 20 1 18 DIRT
 Point=39 14 OUTBOX
 Point=1 20 INBOX
 [/objects]
+
+[highscore]
+879 alchemystics
+841 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -201,6 +216,11 @@ Line=19 1 20 1 OUTBOX
 Line=33 1 34 1 OUTBOX
 Point=1 20 INBOX
 [/objects]
+
+[highscore]
+900 alchemystics
+650 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -233,6 +253,10 @@ FillRect=17 1 18 10 FIREFLYl
 Line=19 1 19 10 OUTBOX
 Point=1 1 INBOX
 [/objects]
+
+[highscore]
+740 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -270,6 +294,11 @@ Line=22 20 22 8 STEELWALL
 Point=1 1 INBOX
 Point=38 1 OUTBOX
 [/objects]
+
+[highscore]
+1146 alchemystics
+1069 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -303,6 +332,11 @@ FillRect=18 8 23 13 DIRT
 Point=20 10 INBOX
 Point=21 11 OUTBOX
 [/objects]
+
+[highscore]
+959 alchemystics
+657 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -340,6 +374,11 @@ Line=19 14 19 8 WALL
 Point=19 17 INBOX
 Point=20 17 OUTBOX
 [/objects]
+
+[highscore]
+864 alchemystics
+518 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -360,7 +399,7 @@ PALTiming=true
 FrameTime=180 160 140 120 120
 CaveDelay=9 8 7 6 6
 DiamondValue=15 25
-RandSeed=2 5 8 14 19
+RandSeed=2 6 8 14 19
 RandomFill=BOULDER 140 SPACE 100 DIRT 85 FIREFLYl 4
 ActiveGuyIsFirst=false
 AmoebaProperties.immediately=false
@@ -550,6 +589,10 @@ Point=37 15 OUTBOX
 Point=39 19 OUTBOX
 [/Level]
 [/objects]
+
+[highscore]
+677 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -589,6 +632,10 @@ Point=33 11 SPACE
 Point=1 1 INBOX
 Point=39 16 OUTBOX
 [/objects]
+
+[highscore]
+1129 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -609,7 +656,7 @@ PALTiming=true
 FrameTime=180 160 140 120 120
 CaveDelay=9 8 7 6 6
 DiamondValue=9 15
-RandSeed=2 7 28 57 86
+RandSeed=4 7 28 57 86
 RandomFill=BOULDER 195 DIRT 160 FIREFLYl 30 SPACE 25
 ActiveGuyIsFirst=false
 AmoebaProperties.immediately=false
@@ -633,6 +680,10 @@ Point=1 1 OUTBOX
 Line=6 20 6 17 SPACE
 Point=6 19 FIREFLYl
 [/objects]
+
+[highscore]
+810 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -704,6 +755,10 @@ Line=7 1 32 1 BOULDER
 Point=1 20 INBOX
 Point=38 20 OUTBOX
 [/objects]
+
+[highscore]
+380 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -781,6 +836,10 @@ Line=30 13 12 13 STEELWALL
 Point=38 20 INBOX
 Point=1 1 OUTBOX
 [/objects]
+
+[highscore]
+985 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -838,9 +897,14 @@ Line=1 17 38 17 DIRT
 Line=1 16 38 16 DIRT
 FillRect=18 1 21 3 DIRT
 Rectangle=19 1 20 2 AMOEBA
-Line=19 0 20 0 OUTBOX
 Point=19 16 INBOX
+Point=1 0 OUTBOX
+Point=38 0 OUTBOX
 [/objects]
+
+[highscore]
+687 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -861,7 +925,7 @@ PALTiming=true
 FrameTime=180 160 140 120 120
 CaveDelay=7 7 7 7 7
 DiamondValue=20 45
-RandSeed=19 26 33 36 45
+RandSeed=19 26 33 37 45
 RandomFill=BOULDER 60 DIRT 40 BOULDER 15 FIREFLYl 3
 ActiveGuyIsFirst=false
 AmoebaProperties.immediately=false
@@ -876,6 +940,10 @@ Point=37 19 OUTBOX
 Rectangle=6 6 33 15 WALL
 Line=7 15 32 15 MAGICWALL
 [/objects]
+
+[highscore]
+750 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -919,6 +987,10 @@ Point=30 13 DIRT
 Point=9 12 INBOX
 Point=30 9 OUTBOX
 [/objects]
+
+[highscore]
+551 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -953,6 +1025,10 @@ Rectangle=1 1 18 2 VEXPANDINGWALL
 Point=2 10 INBOX
 Point=1 10 OUTBOX
 [/objects]
+
+[highscore]
+680 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -989,6 +1065,10 @@ Line=31 5 34 8 WALL
 Point=19 10 INBOX
 Point=20 11 OUTBOX
 [/objects]
+
+[highscore]
+636 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -1002,8 +1082,8 @@ Intermission=false
 IntermissionProperties.rewardlife=false
 Size=40 22 0 0 39 21
 Colors=Black Black Gray1 Purple Yellow Yellow Gray1
-DiamondsRequired=54 54 63 72 81
-CaveTime=100 100 100 100 100
+DiamondsRequired=54 54 63 63 72
+CaveTime=120 120 120 120 120
 CaveScheduling=bd2
 PALTiming=true
 FrameTime=180 160 140 120 120
@@ -1026,6 +1106,10 @@ Line=37 1 38 2 DIRT
 Point=38 1 INBOX
 Point=1 1 OUTBOX
 [/objects]
+
+[highscore]
+436 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -1059,6 +1143,10 @@ BorderProperties.objectwraparound=true
 Point=1 20 INBOX
 Point=39 1 OUTBOX
 [/objects]
+
+[highscore]
+383 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -1079,7 +1167,7 @@ PALTiming=true
 FrameTime=180 160 140 120 120
 CaveDelay=9 8 7 6 6
 DiamondValue=20 15
-RandSeed=18 21 30 55 93
+RandSeed=18 21 30 55 83
 RandomFill=BOULDER 200 DIRT 170 BOULDER 40 FIREFLYl 3
 ActiveGuyIsFirst=false
 AmoebaProperties.immediately=false
@@ -1101,6 +1189,10 @@ Rectangle=18 19 21 20 DIRT
 Rectangle=19 18 20 20 DIRT
 Point=19 20 INBOX
 [/objects]
+
+[highscore]
+1063 alchemystics
+[/highscore]
 [/cave]
 
 [cave]
@@ -1120,6 +1212,7 @@ PALTiming=true
 FrameTime=180 160 140 120 120
 CaveDelay=5 5 5 5 5
 DiamondValue=40 40
+InitialFill=DIAMOND
 ActiveGuyIsFirst=false
 AmoebaProperties.immediately=false
 MagicWallProperties.convertamoeba=false
@@ -1128,6 +1221,7 @@ BorderProperties.lineshift=true
 BorderProperties.objectwraparound=true
 
 [objects]
+FillRect=1 8 18 10 DIRT
 Line=1 1 18 1 BOULDER
 Line=1 2 1 6 BOULDER
 Line=1 7 18 7 BOULDER
@@ -1138,10 +1232,10 @@ Point=1 10 INBOX
 Line=2 2 2 6 BUTTERFLYl
 [/Level]
 [Level=5]
-Line=3 5 4 4 BUTTERFLYl
+Line=4 5 4 4 BUTTERFLYl
 [/Level]
 [Level=5]
-Line=5 5 6 6 BUTTERFLYl
+Line=3 6 6 6 BUTTERFLYl
 [/Level]
 [Level=5]
 Line=6 5 6 2 BUTTERFLYl
@@ -1159,7 +1253,7 @@ Line=8 6 10 6 BUTTERFLYl
 Line=12 2 12 6 BUTTERFLYl
 [/Level]
 [Level=5]
-Line=13 3 14 4 BUTTERFLYl
+Line=13 2 14 2 BUTTERFLYl
 [/Level]
 [Level=5]
 Line=15 2 15 6 BUTTERFLYl
@@ -1174,7 +1268,7 @@ Line=17 6 17 6 BUTTERFLYl
 Line=2 2 2 6 BUTTERFLYl
 [/Level]
 [Level=1,2,3,4]
-Line=3 3 4 4 BUTTERFLYl
+Line=3 2 4 2 BUTTERFLYl
 [/Level]
 [Level=1,2,3,4]
 Line=5 2 5 6 BUTTERFLYl
