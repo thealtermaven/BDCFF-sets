@@ -18,9 +18,10 @@ set these levels independent of cave start.
 
 Premise can be found in the "Info" tab.
 
-CAUTION: "Alchemyst Dig 6.bd" is a BDCFF file.
-You need a Boulder Dash Cave File Format interpreter
-in order to read this file and play this game.
+CAUTION: "Alchemyst Dangerdash 1.bd" is a
+BDCFF file. You need a Boulder Dash Cave
+File Format interpreter in order to read
+this file and play this game.
 GDash is recommended to use this caveset.
 
 Boulder Dash (c) Peter Liepa / Chris Gray.
