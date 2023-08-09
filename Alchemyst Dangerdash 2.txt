@@ -1,0 +1,68 @@
+Alchemyst Dangerdash Vol.2
+by Alchemystics Design
+--CREATIVITY IS CHEMISTRY--
+All levels designed by
+Windbliss aka Altermaven
+Release: 10 Aug 2023
+
+This pack contains 20 caves, 5 intermissions
+and 4 starts (if "select all caves" is off):
+Cave A
+Cave E
+Cave I
+Cave M
+
+There are also five levels that adjust most
+of the caves' "weirdness" and criteria. Go
+for the gold! And the high score! You can
+set these levels independent of cave start.
+
+Premise can be found in the "Info" tab.
+
+CAUTION: "Alchemyst Dangerdash 2.bd" is a
+BDCFF file. You need a Boulder Dash Cave
+File Format interpreter in order to read
+this file and play this game.
+GDash is recommended to use this caveset.
+
+Boulder Dash (c) Peter Liepa / Chris Gray.
+This is a fan caveset.
+
+-----------------------------------------
+The caveset is split up into five sections.
+Only the start of the first four can be
+chosen. "Select All Caves" should be off
+in order to get the original experience.
+
+If "Story" is enabled, you will receive
+a message on each intermission.
+
+CAVE A: Begin Anew
+CAVE B: Closed Yard
+CAVE C: Corc
+CAVE D: Crystal Drops
+INT 1: Ficken?
+
+CAVE E: Return of the Monolith
+CAVE F: Safekeepers
+CAVE G: Beady One E?
+CAVE H: Diamond Shuffle Special
+INT 2: Landmines
+
+CAVE I: Nobody?
+CAVE J: Double Seal
+CAVE K: Flutterwall
+CAVE L: Roundabout
+INT 3: TIME IT CAREFULLY!
+
+CAVE M: Zed
+CAVE N: Factorate
+CAVE O: Broken Cauldron
+CAVE P: Gotterdammerung
+INT 4: Offset
+
+OUTRO 1: Break In
+OUTRO 2: The Vault
+OUTRO 3: The Alarm
+OUTRO 4: The Futility
+INT 5: Play Again?
