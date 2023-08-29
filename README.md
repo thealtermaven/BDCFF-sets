@@ -9,6 +9,8 @@ There will be no official releases in the CLCK standalone format (d64). However,
 ---
 To grab: Code > "Download ZIP", then drop them in a directory you have access to from your BDCFF interpreter. If you are planning on using GDash's /caves folder, make the folder /alchemystics and drop the files there. For the images to work they must be in the same directory. (You can also grab the most current bundle from the Releases section which has all three!)
 
+29 Aug 2023: Alchemyst DangerDash 02: Fixed an inconsistency in the A-series to prevent the RNG from blocking Rockford in A/3. Revised the textfile of Dangerdash 01 to remove mentions of a non-existant "Alchemyst Dig! Vol.06".
+
 29 Mar 2023: Alchemyst DangerDash 01: Changed the seed of H/2 so that the magic wall does not accidentally start itself due to the random fill. Cleaned up requisites in all levels of B -- only in B/5 you need all 60 diamonds. Adjusted seeds in various caves; increased timer in Outro 2 "Dexter" and adjusted requirements so perfection is not required, but you are still pressed for time. Adjusted seeds in few levels of K for more consistent smothers.
 
 28 Mar 2023: Alchemyst DangerDash 01 has been released.
@@ -26,7 +28,3 @@ To grab: Code > "Download ZIP", then drop them in a directory you have access to
 01 Sept 2021: Alchemyst Dig 03 has been released.
 
 13 May 2021: Alchemyst Dig 02: Fixed an issue in III/4 that prevented escape from a section due to boulder push luck. Offending boulder removed. Fixed a missing element in Cave IV, which also solved a blocked-in Rockford in IV/4.
-
-12 May 2021: Alchemyst Dig 02: Fixed weirdness in VII not having uniform delays. Fixed levels 3 and 4 of X having the wrong RNG seed, making the levels unable to be finished.
-
-21 Apr 2021: Alchemyst Dig 01: Brushed up the accomodating textfile, fixed some weirdness in cave 25 "Falling", it's now not as impossible-feeling as the Impossibilium you are gathering. Cleaned up the remarks page, the url to this repo should be visible now
