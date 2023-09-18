@@ -7,7 +7,9 @@ Creativity is chemistry!
 You may tweak and change these cavesets provided you give me credit for the original material.  
 There will be no official releases in the CLCK standalone format (d64). However, I am looking for individuals who will pack caves in CLCK standalone. If you manage to, flag me down and send me the d64, and I'll post it with your credit.  
 ---
-To grab: Code > "Download ZIP", then drop them in a directory you have access to from your BDCFF interpreter. If you are planning on using GDash's /caves folder, make the folder /alchemystics and drop the files there. For the images to work they must be in the same directory. (You can also grab the most current bundle from the Releases section which has all three!)
+To grab: Peruse the Releases section to get the most up-to-date caveset pack in ZIP format. Unzip the contents into a folder accessable by your BDCFF interpreter of choice (such as GDash). May I suggest /alchemystics?
+
+18 Sep 2023: Alchemyst DangerDash 03 has been released. If you read the story you will realise a similar theme in Alchemyst Dig 1. If you see the notes above each cave title, you'll understand why. This caveset uses RGB colors in lieu of the standard C64. It will become apparent once you link the colors to the mineral references...
 
 29 Aug 2023: Alchemyst DangerDash 02: Fixed an inconsistency in the A-series to prevent the RNG from blocking Rockford in A/3. Revised the textfile of Dangerdash 01 to remove mentions of a non-existant "Alchemyst Dig! Vol.06".
 
