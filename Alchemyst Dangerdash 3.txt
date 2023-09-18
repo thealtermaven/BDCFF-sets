@@ -1,0 +1,119 @@
+Alchemyst Dangerdash 3
+"A Brand New Dilemma"
+by Alchemystics Design
+
+--CREATIVITY IS CHEMISTRY--
+
+All levels designed by
+Windbliss aka Altermaven
+Release: 17 Sep 2023
+
+This pack contains 26 caves, 6 intermissions
+and 5 starts (if "select all caves" is off):
+Cave A
+Cave E
+Cave I
+Cave M
+Cave Q
+
+There are also five levels that adjust most
+of the caves' "weirdness" and criteria. Go
+for the gold! And the high score! You can
+set these levels independent of cave start.
+
+Premise can be found in the "Info" tab.
+
+CAUTION: "Alchemyst Dangerdash 3.bd" is a
+BDCFF file. You need a Boulder Dash Cave
+File Format interpreter in order to read
+this file and play this game.
+GDash is recommended to use this caveset.
+
+Boulder Dash (c) Peter Liepa / Chris Gray.
+This is a fan caveset.
+
+-----------------------------------------
+The caveset is split up into six sections.
+Only the start of the first five can be
+chosen. "Select All Caves" should be off
+in order to get the original experience.
+
+If "Story" is enabled, you will receive
+a rhyme on each intermission.
+
+The lab rat has tasked you with obtaining
+the following for his never-ending
+experiments, according to the list you have.
+The exception is bonuses, which are minerals
+that are shown to have increasing 'hardness'
+according to the Mohs scale:
+
+-A: Agate
+"Scanlines"
+-B: Beryl
+"Chevron"
+-C: Celestite
+"Snowfall"
+-D: Diamond
+"Amigo?"
+BONUS 1: Tin (relative hardness 1.5)
+
+-E: Emerald
+"Gardenmaze"
+-F: Forsterite
+"Fold4, Wrap5"
+-G: Gypsum
+"BD1/H Skew"
+-H: Halite
+"Evershift"
+BONUS 2: Silver (relative hardness 2.5)
+"Four Drops"
+
+-I: Indicolite
+"D10 Flashback"
+-J: Jadeite
+"Butterfly Section"
+-K: Kyanite
+"Cruel Cage"
+-L: Lizardite
+"Komodo"
+BONUS 3: Sphalerite (rel. hardness 3.7)
+"Greed?"
+
+-M: Magnesite
+"Venndyke's Relic"
+-N: Nambulite
+"The Desertion"
+-O: Obsidian
+"Borrowed Time"
+-P: Peridot
+"Limeade Slice"
+BONUS 4: Chromite (rel. hardness 5.5)
+"BD1/I4 Reprise"
+
+-Q: Quartz
+"Glittertrip"
+-R: Rhodonite
+"Augmatic Disport"
+-S: Sapphire
+"Blind Eye"
+-T: Tiger's eye
+"Soul Cages"
+BONUS 5: Pyrite (rel. hardness 6.2)
+"Slitherine"
+
+--Only available after Bonus 5--
+-U: Ussingite
+"All That Was"
+-V: Vivianite
+"Vertex"
+-W: Willemite
+"Dust Removal"
+-X: Xonotite
+"The Calm"
+-Y: Yugawaralite
+"The Tide"
+-Z: Zoisite
+"Nobody? II"
+BONUS 6: Euclase (rel. hardness 7.5)
+"Finale"
