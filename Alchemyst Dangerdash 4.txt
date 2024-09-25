@@ -1,0 +1,59 @@
+Alchemyst Dangerdash 4
+by Windbliss
+of Alchemystics Design
+
+--The Chemistry of Creativity--
+
+Release: 25 Sep 2023
+
+This caveset has 20 caves and 5 intermissions,
+and 4 starts if "Select All Caves" is disabled:
+
+Cave A
+Cave E
+Cave I
+Cave M
+
+There are also five levels that adjust most
+of the caves' "weirdness" and criteria. Go
+for the gold! And the high score! You can
+set these levels independent of cave start.
+
+Premise can be found in the "Info" tab.
+
+CAUTION: "Alchemyst Dangerdash 4.bd" is a
+BDCFF file. You need a Boulder Dash Cave
+File Format interpreter in order to read
+this file and play this game.
+GDash is recommended to use this caveset.
+
+Boulder Dash (c) Peter Liepa / Chris Gray.
+This is a fan caveset.
+
+-------------------------------------------------
+
+Oh wow, another year huh? That's probably
+the longest gap between releases. I'll get
+straight to the why: shit was kinda being
+a little rough this year and I'm starting
+to pursue two different avenues between the
+concoctions of GDash sets. If you actually
+looked at the Interesting Output Youtube,
+I've actually began performing 'tweak sessions'
+using the Roland AIRA T-8 Compact. But I
+have plans to do more.
+
+I'm also starting to eventually pick up on
+the recording phase of games, so that's also
+in the window.
+
+The other avenue? NDA is stopping me, lol.
+
+-------------------------------------------------
+
+After the dilemma of the labrat, much to your
+dismay, a brand new myriad had been discovered.
+As per usual, you're the best one for the job.
+Go in and haul some beautiful gems and deprive
+another greedy ghostly bastard of his ill-gained
+riches. They'll be better put to use anyway.
