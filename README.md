@@ -9,6 +9,8 @@ There will be no official releases in the CLCK standalone format (d64). However,
 ---
 To grab: Peruse the Releases section to get the most up-to-date caveset pack in ZIP format. Unzip the contents into a folder accessable by your BDCFF interpreter of choice (such as GDash). May I suggest /alchemystics?
 
+26 Sep 2024: Alchemyst DangerDash 04: Tweaked requirements for B/3 and slightly increased time for B/5; rotated M/3 seed; rotated seeds for P/3-4-5 due to a seed creating an unintended scenario that resulted in a softlock; other softlock removals (Blissful)
+
 25 Sep 2024: Alchemyst DangerDash 04 has been released. It continues the general thematic of DangerDash 02. Any problems? Poke me.
 
 02 Nov 2023: Alchemyst DangerDash 03: Adjusted a color in Cave N (Nambulite) to reduce intensity of the red for less eyestrain; adjusted the remark in cave X so it is actually spelt Xonotlite and not Xonotite :) Otherwise, no gameplay adjusts.
