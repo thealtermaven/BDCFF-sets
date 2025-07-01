@@ -4,7 +4,7 @@ of Alchemystics Design
 
 --The Chemistry of Creativity--
 
-Release: 25 Sep 2023
+Release: 25 Sep 2024
 
 This caveset has 20 caves and 5 intermissions,
 and 4 starts if "Select All Caves" is disabled:
