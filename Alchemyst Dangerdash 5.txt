@@ -1,0 +1,56 @@
+Alchemyst Dangerdash 4
+by Windbliss
+of Alchemystics Design
+
+--The Chemistry of Creativity--
+
+Release: 30 Jun 2025
+
+This caveset has 20 caves and 5 intermissions,
+and 4 starts if "Select All Caves" is disabled:
+
+Cave A
+Cave E
+Cave I
+Cave M
+
+There are also five levels that adjust most
+of the caves' "weirdness" and criteria. Go
+for the gold! And the high score! You can
+set these levels independent of cave start.
+
+Premise can be found in the "Info" tab.
+
+CAUTION: "Alchemyst Dangerdash 5.bd" is a
+BDCFF file. You need a Boulder Dash Cave
+File Format interpreter in order to read
+this file and play this game.
+GDash is recommended to use this caveset.
+
+Boulder Dash (c) Peter Liepa / Chris Gray.
+Boulder Dash (c) BBG Entertainment GmbH.
+This is a fan caveset.
+
+-------------------------------------------------
+
+Nine months since the last act, eh? Time is
+flying. This is probably the lab's last
+contribution before the Big Thing I Can't Discuss
+drops in your lap. How to make a proper tribute
+celebration of forty-one years of the very glory
+that is Boulder Dash? Get input from the fans ;)
+
+Seriously though. If you've been keeping an eye
+on *this* series, you'll discover something that
+is quite fresh and yet familiar. I wonder what..
+
+..But I can defintely say it's approved!! :D :D
+
+-------------------------------------------------
+
+The myriad of the long-forgotten Akh'ala Ma'lankah
+is the next target of your dig. The keeper of the
+deeds says recovering the hoard has become too
+dangerous for general purposes, but since you're
+skilled and all that, it's time to bust out the
+moves and brave the depths..for fortune and glory!
