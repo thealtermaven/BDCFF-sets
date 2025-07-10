@@ -1,6 +1,8 @@
 # BDCFF-sets
 Boulder Dash cavesets in the BDCFF text format.
 
+# Be advised there is a disparity between revv's GDash repository and the current release. Specifically, the GDash repository has 1.0 of DangerDash Vol.2 - until this is rectified, *please* peruse the current release which has 1.1!
+
 You need a Boulder Dash Cave File Format interpreter to load and play these cavesets. I recommend GDash as it is the target interpreter. All cavesets created by ALCHEMYSTICS DESIGN. All caves designed by Windbliss, formerly Altermaven.  
 Creativity is chemistry!
 
