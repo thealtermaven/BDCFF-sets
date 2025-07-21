@@ -11,7 +11,7 @@ There will be no official releases in the CLCK standalone format (d64). However,
 ---
 To grab: Peruse the Releases section to get the most up-to-date caveset pack in ZIP format. Unzip the contents into a folder accessable by your BDCFF interpreter of choice (such as GDash). May I suggest /alchemystics?
 
-21 Jul 2025: Alchemyst DangerDash 04: Changed the random seed of G/3 to prevent the cave from autofailing due to magic wall trigger as a result of the initial fill (Blissful)
+21 Jul 2025: Alchemyst DangerDash 01: Changed the random seed of G/3 to prevent the cave from autofailing due to magic wall trigger as a result of the initial fill (Blissful)
 
 30 Jun 2025: Alchemyst DangerDash 05 has been released. The thematic takes a turn with a new myriad. The caveset becomes more unfair at higher levels. Any problems? Poke me.
 
