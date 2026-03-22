@@ -1,0 +1,67 @@
+Alchemyst Dangerdash 6
+by Windbliss of Alchemystics Design
+
+--The Chemistry of Creativity--
+
+Release: 21 Mar 2026
+
+This caveset has 21 caves and 5 intermissions,
+and 4 starts if "Select All Caves" is disabled:
+
+I
+V
+IX
+XIII
+
+There are also five levels that adjust most
+of the caves' "weirdness" and criteria. Go
+for the gold! And the high score! You can
+set these levels independent of cave start.
+
+Premise can be found in the "Info" tab.
+
+CAUTION: "Alchemyst Dangerdash 6.bd" is a
+BDCFF file. You need a Boulder Dash Cave
+File Format interpreter in order to read
+this file and play this game.
+GDash is recommended to use this caveset.
+
+Boulder Dash (c) Peter Liepa / Chris Gray.
+Boulder Dash (c) BBG Entertainment GmbH.
+This is a fan caveset.
+
+-------------------------------------------------
+
+Wow, it's nuts isn't it? BD 40th has been everything
+I had expected it to be. It's still got some rough
+spots, but I can't complain. In case you're about
+to brag -- no, I'm not sitting in luxury. I was going
+to buy the game anyway, and I wanted the team to get
+the import just right. I bugchecked their importer ;)
+
+ADD2 BD40th when? Meh. I have too much shite on my
+plate right now! I wanted to be a part of this
+memory, and I am happy that it's a part of BD40.
+    -Windy Blissful
+
+-------------------------------------------------
+
+After finding the Myriad that belonged to Ma'lankh,
+you've received a summons from researchers who were
+looking into Moonspiral after you've finished your
+task there years ago. They made a discovery.
+
+House Lafore has been the forefront of experimental
+magics. And what they found was possibly the entrance
+to the esteemed Kaedra Lafore, who was classified as
+a experimental alchemist who studied the nature of a
+curious inert material known as zelar. Historical
+records indicated that there was no such success...
+
+...except the explorers found gemstones that were
+created from the transmutation of said substance!
+
+Your task is to collect these gemstones and discover
+if they were somehow transmuted from bespoke zelar,
+and preferably haul back as many as you can. Jewels
+are in high demand, and if zelar can be transmuted...
