@@ -1,8 +1,6 @@
 # BDCFF-sets
 Boulder Dash cavesets in the BDCFF text format.
 
-# Be advised there is a disparity between revv's GDash repository and the current release. Specifically, the GDash repository has out of date entries for Alchemyst Dig and Dangerdash. Until then, always copy over the GDash repo's caves with ones from this repo.
-
 You need a Boulder Dash Cave File Format interpreter to load and play these cavesets. I recommend GDash as it is the target interpreter. All cavesets created by ALCHEMYSTICS DESIGN. All caves designed by Windbliss, formerly Altermaven.  
 Creativity is chemistry!
 
@@ -10,6 +8,8 @@ You may tweak and change these cavesets provided you give me credit for the orig
 There will be no official releases in the CLCK standalone format (d64). However, I am looking for individuals who will pack caves in CLCK standalone. If you manage to, flag me down and send me the d64, and I'll post it with your credit.  
 ---
 To grab: Peruse the Releases section to get the most up-to-date caveset pack in ZIP format. Unzip the contents into a folder accessable by your BDCFF interpreter of choice (such as GDash). May I suggest /alchemystics?
+
+21 Mar 2026: Alchemyst DangerDash 06 has been released. Mysterious discoveries lead to an unexplored section of familiar territory.
 
 06 Dec 2025: Alchemyst DangerDash 01: Adjusted Cave O so that there is actually a short magic wall duration (SparksF1, Blissful)
 
