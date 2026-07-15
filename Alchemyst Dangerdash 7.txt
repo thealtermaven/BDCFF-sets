@@ -1,0 +1,75 @@
+Alchemyst Dangerdash 7
+by Windbliss of Alchemystics Design
+
+--The Chemistry of Creativity--
+
+Release: 15 Jul 2026
+
+This caveset has 20 caves and 4 intermissions,
+and 4 starts if "Select All Caves" is disabled:
+
+1A
+2A
+3A
+4A
+
+There are also five levels that adjust most
+of the caves' "weirdness" and criteria. Go
+for the gold! And the high score! You can
+set these levels independent of cave start.
+
+Premise can be found in the "Info" tab.
+
+CAUTION: "Alchemyst Dangerdash 7.bd" is a
+BDCFF file. You need a Boulder Dash Cave
+File Format interpreter in order to read
+this file and play this game.
+GDash is recommended to use this caveset.
+
+Boulder Dash (c) Peter Liepa / Chris Gray.
+Boulder Dash (c) BBG Entertainment GmbH.
+This is a fan caveset.
+
+-------------------------------------------------
+
+The summer's gotten real serious and we had a heat
+spike a week ago that obliterated our power for half
+a day. IN THE BLEEDIN' NIGHT! Wicked winds ended up
+tearing up the weak trees in the neighborhood and
+the lines all fell down. If there's one thing I can't
+stand it's this damned heat. The peeps in Europe got
+it worse -- their homes weren't built for this shite!
+
+I'm in between projects, so I was able to cobble
+together a nice little caveset for y'all. No secret
+"just one more" bundle of caves after the fourth
+quarter, so this is a pseudo-vanilla layout. Except
+you're getting five caves per quarter instead of 4!
+
+Keep on dashing,
+    -Windy Blissful
+
+-------------------------------------------------
+
+After the events of the Atelier, a new hunt for the
+enigmatic essence known as zelar had begun. The folks
+near Lomard decided they wanted to open up a new wing
+located near Legrath, which served its purpose during
+the coal and iron rush a few decades ago. Surely,
+there would be deposits to be found, deposits that
+were left behind.
+
+When extracts turned to coal, however, the mines of
+Legrath were abandoned in favor of richer deposits
+further south. So when the team returned to Legrath,
+they thought things were stable the way they were.
+
+They didn't account for the fact the primary shaft had
+seen better days and the cave has become unstable from
+how stripped it became. Not only that, but something
+nasty made its home in the old derelicts. Time wasn't
+kind to these places after all. So the miners had all
+been scared off, and bounties were placed for anyone
+daring enough to brave the mines of Legrath.
+
+Surely, they meant you...
