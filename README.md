@@ -6,7 +6,11 @@ Creativity is chemistry!
 
 You may tweak and change these cavesets provided you let me know, and give me credit for the original material.  
 There will be no official releases in the CLCK standalone format (d64). However, I am looking for individuals who will pack caves in CLCK standalone. If you manage to, flag me down and send me the d64, and I'll post it with your credit.  
+
+You may not use any of this content in the release of games that are freemium and/or for-profit outside explicit permissions granted to the current copyright owner of Boulder Dash, which is BBG Entertainment GmbH. Furthermore, while this content is given free to use, it is not free to manipulate except for the express permssion of inclusion of another BDCFF series given freely, or transformation into CLCK standalone format (in a .d64). All requests for exceptions outside these rules are denied.
+
 ---
+
 To grab: Peruse the Releases section to get the most up-to-date caveset pack in ZIP format. Unzip the contents into a folder accessable by your BDCFF interpreter of choice (such as GDash). May I suggest /alchemystics?
 
 15 Jul 2026: Alchemyst DangerDash 07 has been released. A revisit to old mines promises rewards, yet great danger.
