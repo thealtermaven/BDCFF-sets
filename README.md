@@ -4,10 +4,11 @@ Boulder Dash cavesets in the BDCFF text format.
 You need a Boulder Dash Cave File Format interpreter to load and play these cavesets. I recommend GDash as it is the target interpreter. All cavesets created by ALCHEMYSTICS DESIGN. All caves designed by Windbliss, formerly Altermaven.  
 Creativity is chemistry!
 
-You may tweak and change these cavesets provided you let me know, and give me credit for the original material.  
 There will be no official releases in the CLCK standalone format (d64). However, I am looking for individuals who will pack caves in CLCK standalone. If you manage to, flag me down and send me the d64, and I'll post it with your credit.  
 
-You may not use any of this content in the release of games that are freemium and/or for-profit outside explicit permissions granted to the current copyright owner of Boulder Dash, which is BBG Entertainment GmbH. Furthermore, while this content is given free to use, it is not free to manipulate except for the express permssion of inclusion of another BDCFF series given freely, or transformation into CLCK standalone format (in a .d64). All requests for exceptions outside these rules are denied.
+You may not use any of this content, in whole or in part, in the release of games that are freemium and/or for-profit, outside explicit permissions granted to the current copyright owner of Boulder Dash, which is BBG Entertainment GmbH. Furthermore, while this content is given free to use, it is not free to manipulate except for the express permssion of inclusion of another BDCFF series given freely (that is not freemium and/or for-profit), for inclusion in a BDCFF database (such as the caveset inclusion in a BDCFF interpreter package, or the Boulder Dash Game Base (BDGB)), or transformation into CLCK standalone format (for use in C64 Boulder Dash sets released as a .d64 diskfile). The only permissable use of this content is in the inclusion of freely-accessable games that interpret BCDFF. **Games that are written using blockchain or adjacent technologies is not considered free for the purpose of enforcement.**
+
+Alchemyst Dig! / Alchemyst DangerDash (c) 2019-2026 alchemystics design.
 
 ---
 
