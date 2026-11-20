@@ -14,6 +14,8 @@ Alchemyst Dig! / Alchemyst DangerDash (c) 2019-2026 alchemystics design.
 
 To grab: Peruse the Releases section to get the most up-to-date caveset pack in ZIP format. Unzip the contents into a folder accessable by your BDCFF interpreter of choice (such as GDash). May I suggest /alchemystics?
 
+20 Nov 2026: Updated the acceptable terms of peruse.
+
 15 Jul 2026: Alchemyst DangerDash 07 has been released. A revisit to old mines promises rewards, yet great danger.
 
 21 Mar 2026: Alchemyst DangerDash 06 has been released. Mysterious discoveries lead to an unexplored section of familiar territory.
